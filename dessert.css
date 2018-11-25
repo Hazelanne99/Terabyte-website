@@ -51,7 +51,10 @@ div {
 
 
 .recipe3 {
-  background: url("https://farm2.staticflickr.com/1940/45277336651_2213c5a65a_z.jpg"); <!-- url of recipe image here -->
+  background: url("http://cdn.sheknows.com/articles/2013/01/Mike/chefmom/971631/fudge-mocha-brownie.jpg"); <!-- url of recipe image here -->
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
