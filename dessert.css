@@ -48,7 +48,11 @@ div {
 
 .recipe3 {
   background: url("https://farm2.staticflickr.com/1940/45277336651_2213c5a65a_z.jpg"); <!-- url of recipe image here -->
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
+
 
 
 p {
